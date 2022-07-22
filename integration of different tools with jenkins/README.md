@@ -1,4 +1,4 @@
-# ***integration of different tools with jenkins***
+# ***Integration of different tools with jenkins***
 
 ## 1. MAVEN integration
 
