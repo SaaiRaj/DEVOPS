@@ -1,13 +1,13 @@
 # Infra setup through ANSIBLE
 
-![ansible]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform.PNG)
 
-![ansible-1]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform%205.PNG)
 
-![ansible-2]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform%204.PNG)
 
-![ansible-3]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform%201.PNG)
 
-![ansible-4]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform%203.PNG)
 
-![ansible-5]()
+![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/terraform%202.PNG)
