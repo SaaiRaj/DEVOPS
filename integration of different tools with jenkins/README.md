@@ -1,6 +1,6 @@
-# ***Integration of different tools with jenkins***
+# Integration of different tools with jenkins
 
-## 1. MAVEN integration
+## ***1. MAVEN integration***
 
 ![maven1](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/mvn1.PNG)
 
@@ -8,7 +8,7 @@
 
 ![maven3](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/mvn3.PNG)
 
-## 2. DOCKER integration
+## ***2. DOCKER integration***
 
 ![docker1](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/dockerr.PNG)
 
@@ -24,6 +24,10 @@
 
 ![docker1](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/docker6.PNG)
 
-## 3. JFROG integration
+## ***3. JFROG integration***
 
-![jfrog1](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/jfrog.PNG)
+![jfrog1](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/jfrog-1.PNG)
+
+![jfrog2](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/jfrog-2.PNG)
+
+![jfrog3](https://github.com/SaaiRaj/DEVOPS/blob/main/integration%20of%20different%20tools%20with%20jenkins/images/jfrog-3.PNG)
