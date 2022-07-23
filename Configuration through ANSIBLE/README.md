@@ -2,7 +2,7 @@
 
 ![ansible-1](https://github.com/SaaiRaj/DEVOPS/blob/main/Configuration%20through%20ANSIBLE/images/ansible-1.PNG)
 
-![ansible-2](https://github.com/SaaiRaj/DEVOPS/blob/main/Configuration%20through%20ANSIBLE/images/ansible-2.PNG)
+![ansible-2](https://github.com/SaaiRaj/DEVOPS/blob/main/Configuration%20through%20ANSIBLE/images/ansible.PNG)
 
 ![ansible-3](https://github.com/SaaiRaj/DEVOPS/blob/main/Configuration%20through%20ANSIBLE/images/ansible-3.PNG)
 
