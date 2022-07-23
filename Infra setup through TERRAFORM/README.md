@@ -1,4 +1,4 @@
-# Infra setup through ANSIBLE
+# Infra setup through TERRAFORM
 
 ![ansible](https://github.com/SaaiRaj/DEVOPS/blob/main/Infra%20setup%20through%20TERRAFORM/images/Capture.PNG)
 
