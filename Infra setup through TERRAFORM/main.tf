@@ -5,8 +5,8 @@
 #===================[PROVIDER]========================================
 provider "aws" {
 region = "us-east-1"
-access_key = "AKGAULGVL4B6SHUEQV10R"
-secret_key = "9LzpoxHtONWFYU3mPDbIcBm3s+jlQELKSSjYG95h"
+access_key = "AKGAULwVt4B2SHUEQV10R"
+secret_key = "9LzpoxHyONWFYU3mPDbpcBm3s+jlQELKSSjYG95h"
 }
 
 #=====================[VPC]===========================================
