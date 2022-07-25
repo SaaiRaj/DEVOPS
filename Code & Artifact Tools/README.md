@@ -28,7 +28,7 @@
 
 ![jfrog1](https://github.com/SaaiRaj/DEVOPS/blob/main/Code%20%26%20Artifact%20Tools/images/jfrog1.PNG)
 
-- connected to the service  using public_ip:8082  
+- connected to the service  using public_ip:8081  
 
 ![jfrog2](https://github.com/SaaiRaj/DEVOPS/blob/main/Code%20%26%20Artifact%20Tools/images/frog2.PNG)
 
