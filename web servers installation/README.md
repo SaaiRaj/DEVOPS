@@ -22,7 +22,7 @@
 
 ## ***3. IIS installation***
 
-- Installed `IIS` on `WINDOWS 2012`  
+- Installed `IIS` on `WINDOWS 2012` and connected to the server  
 
 ![iis1](https://github.com/SaaiRaj/DEVOPS/blob/main/web%20servers%20installation/images/iis%201.PNG)
 
