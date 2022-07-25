@@ -32,6 +32,6 @@
 
 ![jfrog2](https://github.com/SaaiRaj/DEVOPS/blob/main/Code%20%26%20Artifact%20Tools/images/frog2.PNG)
 
-created `user` named as `sai raj`  
+- created `user` named as `sai raj`  
 
 ![jfrog3](https://github.com/SaaiRaj/DEVOPS/blob/main/Code%20%26%20Artifact%20Tools/images/jfrog3.PNG)
