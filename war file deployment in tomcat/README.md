@@ -1,6 +1,6 @@
 # ***WAR FILE DEPLOYMENT IN TOMCAT***  
 
-
+Created 2 EC2 instances `amazon linux` T2 `medium`  
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/1.PNG)  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/2.PNG)  
