@@ -64,19 +64,24 @@ In bulid triggers I selected poll scm and set every 1 minute it will be build wh
 Added maven in invoke top level maven targets in Build  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/10.1.PNG)  
+  
 
-
-![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/11.PNG)  
-
+In post build actions selected deploy war/ear file to  container and gavr tomcat configurations yhem save the job  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/12.PNG)  
 
 
+Now i selected to build now the cosole output like this  
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/13.PNG)  
 
 
+The build history of connected slave is  
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/14.PNG)  
 
+
+I edit the github file then the 2nd build console output is  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/15.PNG)  
 
@@ -84,17 +89,31 @@ Added maven in invoke top level maven targets in Build
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/16.PNG)  
 
 
+This is The output of tomcat server  
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/17.PNG)  
 
+
+Again i change the file and again build (3rd build) the tomcat server output is  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/18.PNG)  
 
 
+By using `webhook` concept I uncheckd `poll scm` and select `Github hook trigger for gitscm polling`  
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/a.PNG)  
+
+In  github i again edit file and committed.  
+So automatically build is triggered  
+This is the dashboard of my job and the 4th Build is successfully done  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/a1.PNG)  
 
+The output of apache tomcat server is shown like this  
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/a2.PNG)  
+
+The total Build history of connected `slave` is  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/a3.PNG)  
 
