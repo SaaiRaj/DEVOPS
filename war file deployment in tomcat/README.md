@@ -1,6 +1,16 @@
 # ***WAR FILE DEPLOYMENT IN TOMCAT***  
 
-Created 2 EC2 instances `amazon linux` T2 `medium`  
+- Created 2 EC2 instances `amazon linux` named as `MASTER` , `SLAVE`  
+
+![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/b.PNG)  
+- In `MASTER` server  
+  - Installed java,git,maven,jenkins and start jenkins.service  
+  - Connected to jenkins server using public ip:8080  
+- In `SLAVE` server  
+  - Installed java,git,maven and Apachetomcat8  
+  - startup the service using `./startup.sh` and conected to the tomcat server using ip:8080  
+  - committed the `context.xml` files in slave server
+
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/1.PNG)  
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/2.PNG)  
