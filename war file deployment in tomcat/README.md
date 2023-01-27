@@ -24,7 +24,7 @@
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/3.PNG)  
 
 
-- Start the service using `./startup.sh` and conected to the tomcat server using ip:8080 
+- Start the service using `./startup.sh` and conectedd to the tomcat server using ip:8080 
 
 ![deploy](https://github.com/SaaiRaj/DEVOPS/blob/main/war%20file%20deployment%20in%20tomcat/images/3.1.PNG)  
 
